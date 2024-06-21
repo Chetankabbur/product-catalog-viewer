@@ -51,6 +51,6 @@ This is a small-scale React application that allows users to browse a list of pr
 
 ## Screenshots
 
-![Products List](screenshots/products-list.png)
-![Product Details](screenshots/product-details.png)
-![Product Search](screenshots/product-search.png)
+![Products List](./screenshots/Home_page.png)
+![Product Details](./screenshots/product_details.png)
+![Product Search](./screenshots/product_details.png)
